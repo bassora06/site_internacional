@@ -1,0 +1,95 @@
+.cor_fundo
+			{
+				background-color: #def8f8;
+			}
+
+			.titulo{
+				text-align: center;
+			}
+			
+			.cor_texto
+			{
+				color: #000;
+				text-align: center;
+			}
+			
+			.cor_texto:link
+			{
+				color: #000;
+			}
+			
+			.cor_texto:hover
+			{
+				color: #000;
+			}
+			
+			.cor_texto:visited
+			{
+				color: #000;
+			}
+
+			  
+			
+			
+			.cor_barra
+			{
+				background-color:#20a3d5;
+				color: #FFF;
+			}
+			
+			.cor_barra_nav:link
+			{
+				background-color: #0B1557;
+				color: #FFF;
+			}
+			
+			.cor_barra_nav:hover
+			{
+				background-color: #0B1557;
+				color: #FFF;
+			}
+					
+			.cor_barra_nav:visited
+			{
+				background-color: #0B1557;
+				color: #FFF;
+			}
+			
+			
+			
+			.cor_texto_barra
+			{
+				color: #FFF;
+			}
+			
+			.cor_texto_barra:link
+			{
+				color: #FFF;
+			}
+			
+			.cor_texto_barra:visited
+			{
+				color: #FFF;
+			}
+			
+			.cor_texto_barra:hover
+			{
+				color: #FFF;
+			}
+
+			.centralizar{
+				text-align: center;
+			}
+
+			.span-texto{
+				background-color: #20a3d5;
+				color: white;
+			}
+
+			.form-back{
+				background-color: #67bebd;
+				height: 450px;
+				width: 1200px;
+			}
+
+			
